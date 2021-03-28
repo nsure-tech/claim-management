@@ -3,8 +3,8 @@
     "static/js/0.44ae61e6.chunk.js": "./static/js/0.44ae61e6.chunk.js",
     "static/js/0.44ae61e6.chunk.js.map": "./static/js/0.44ae61e6.chunk.js.map",
     "main.css": "./static/css/main.36def99a.chunk.css",
-    "main.js": "./static/js/main.7b7f6d63.chunk.js",
-    "main.js.map": "./static/js/main.7b7f6d63.chunk.js.map",
+    "main.js": "./static/js/main.bacdd206.chunk.js",
+    "main.js.map": "./static/js/main.bacdd206.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.350db9e4.js",
     "runtime-main.js.map": "./static/js/runtime-main.350db9e4.js.map",
     "static/js/3.42eee674.chunk.js": "./static/js/3.42eee674.chunk.js",
@@ -37,6 +37,7 @@
     "static/media/error_warning.9139d815.png": "./static/media/error_warning.9139d815.png",
     "static/media/fei.f41445ac.png": "./static/media/fei.f41445ac.png",
     "static/media/http_suecess.4be0e147.png": "./static/media/http_suecess.4be0e147.png",
+    "static/media/logo.b3b62c9c.png": "./static/media/logo.b3b62c9c.png",
     "static/media/logo_nsure.7c2370f9.png": "./static/media/logo_nsure.7c2370f9.png",
     "static/media/metamask-fox.7db94670.svg": "./static/media/metamask-fox.7db94670.svg",
     "static/media/wallet-connect.dfa25e47.svg": "./static/media/wallet-connect.dfa25e47.svg",
@@ -46,6 +47,6 @@
     "static/js/runtime-main.350db9e4.js",
     "static/js/3.42eee674.chunk.js",
     "static/css/main.36def99a.chunk.css",
-    "static/js/main.7b7f6d63.chunk.js"
+    "static/js/main.bacdd206.chunk.js"
   ]
 }
