@@ -1,0 +1,1 @@
+window.__ENV = {"REACT_APP_API":"https://api.nsure.network/claim"};
