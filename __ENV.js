@@ -1,1 +1,1 @@
-window.__ENV = {"REACT_APP_API":"https://api.nsure.network/claim"};
+window.__ENV = {"REACT_APP_API":"https://api.nsure.network/claim","REACT_APP_IPFS_NONE":"https://ipfs.io/ipfs"};
